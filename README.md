@@ -9,8 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/Hiago0021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiago0021&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiago0021&layout=compact&langs_count=7&theme=highcontrast"/>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hiago0021&theme=tokyonight&hide_border=true" />
+</p>
     
 </div>
 <div style="display: inline_block"><br>
